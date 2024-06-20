@@ -1,0 +1,17 @@
+<title>HeLTI Word Scramble</title>
+
+
+    <div id="container" style="margin: 0 auto; max-width: 600px;">
+        <img id="logo" src="https://example.com/images/HeLTI_Logo_All.png" alt="Healthy Life Trajectories Initiative Logo" style="max-width: 100%;">
+        <h1 style="font-size: 36px; color: #007bff; margin-bottom: 20px;">HeLTI Word Scramble</h1>
+        <div id="word" style="font-size: 32px; color: #28a745; margin-bottom: 20px;">buhkali</div>
+        
+        <div class="button-container" style="margin-top: 20px; text-align: center;">
+            Submit
+            Reset
+        </div>
+        <div id="message" style="margin-top: 10px; font-weight: bold;"></div>
+        <div id="definition-container" style="background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); display: none; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
+            <div id="definition" style="font-size: 16px; color: #333;"></div>
+        </div>
+    </div>
